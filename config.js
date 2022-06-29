@@ -10,20 +10,20 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['628816132474']
-global.pengguna = 'alyaa botzz'
+global.owner = ['628895585970']
+global.pengguna = 'diva botz'
 global.premium = []
-global.author = 'alyaa botzz'
-global.pemilik = ['628816132474'] 
-global.ownernomer = '628816132474'
-global.ownername = 'alyaa botz'
-global.botname = 'alyaa botz'
+global.author = 'diva botz'
+global.pemilik = ['628895585970'] 
+global.ownernomer = '628895585970'
+global.ownername = 'diva cnci'
+global.botname = 'diva botz'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '628816132474'
-global.footer = 'alyaa botz'
+global.meki = '628895585970'
+global.footer = 'diva botz'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'alyaa botz' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'diva cnci' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://www.youtube.com/channel/' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
@@ -31,7 +31,7 @@ global.ig = 'https://instagram.com/iamkizakixd'
 global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
 global.dana = '00000'
 global.gopay = '0000'
-global.wame = 'wa.me/08816132474'
+global.wame = 'wa.me/628895585970'
 global.email = 'helloiamkizakixd@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
